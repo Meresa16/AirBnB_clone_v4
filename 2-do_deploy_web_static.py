@@ -6,7 +6,7 @@ from fabric.contrib import files
 import os
 
 
-api.env.hosts = ['142.44.167.235', '144.217.246.199']
+api.env.hosts = ['18.234.129.92', '54.236.54.95']
 api.env.user = 'ubuntu'
 api.env.key_filename = '~/.ssh/holberton'
 
